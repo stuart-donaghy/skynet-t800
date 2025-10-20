@@ -1,0 +1,82 @@
+"servos":
+{
+    "eyes":
+    {
+        "left":
+        {
+            "upDown":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            },
+            "leftRight":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            },
+            "topEyelid":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            },
+            "bottomEyelid":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            },
+            "iris":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            }
+        },
+        "right":
+        {
+            "upDown":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            },
+            "LeftRight":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            },
+            "TopEyelid":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            },
+            "BottomEyelid":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            },
+            "Iris":
+            {
+                "channel": 0,
+                "minimumPosition": 0,
+                "maximumPosition": 2,
+                "initialPosition": 2
+            }
+        }
+    }
+}
